@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        @media screen and (min-width=1275px) {
+
+          body { 
+            width: 1281px;
+            margin: 0 auto;
+            font-family: 'Roboto slab';
+          }
+        }
+        
+      .logo{
+        position: absolute;
+        left: 121px;
+        top: 25px;
+      }
+       .second-div{
+        position: relative;
+        width: auto;
+        top: 170px;
+        left: 121px;
+        display: flex;
+       }
+       .second-div p{
+        font-size: 20px;
+        font-weight: 400;
+        margin:0 57px 0 0;
+        padding-left: 5px;
+       }
+       .second-div .saat.calendar{
+        padding-left: 60px;
+       }
+       .h1-div{
+        position: absolute;
+        display: flex;
+        top: 250px;
+        left: 121px;
+        right: 690px;
+       }
+       .h1-div h1{
+        position: absolute;
+        font-size: 80px;
+        font-weight: 700;
+       }
+       .h1-div img{
+       position: absolute;
+       left: 850px;
+       width: 290px;
+      
+       }
+       
+       .h1-div p {
+        position: absolute;
+        top: 190px;
+        line-height: 150%;
+        font-size: 20px;
+        font-weight: 400px;
+       }
+       .ellipse-1{
+        position: absolute;
+        top: 310px;
+        padding-left: 45px;
+        z-index:-1;
+       }
+       .blue-div {
+        position: absolute;
+        top: 600px;
+        left: 410px;
+        width: 470px;
+        height: 202px;
+        background-color:#1E4681;
+        border-radius: 5px;
+       }
+       .blue-div p{
+        font-size: 25px;
+        line-height: 150%;
+        font-weight: 400;
+        color: #FFFFFF;
+        padding: 15px;
+       }
+       .blue-div p span {
+        padding: 0 0 0 200px;
+        font-size: 20px;
+       }
+
+   
+/* ------------------------------------first ends------------------------ */
+
+/* ------------------------------second page starts -----------------------*/
+.second-pageh1{
+  position: relative;
+  top: 1000px ;
+  left: 121px;
+}
+.second-pageh1 h1{
+  font-size: 80px;
+  font-weight: 700px;
+  line-height: 101%;
+}
+.paraqraf{
+  position: absolute;
+  width: 662px;
+  height: 374px;
+  left: 0;
+  top: 121px;
+  font-size: 20px;
+  line-height: 150%;
+ }
+ .paraqraf p{
+  margin-bottom:20px;
+  font-size: 25px;
+ }
+.cameraman-div{
+  top: 0px;
+  position: absolute;
+  left: 850px;
+}
+.ellipse-cameraman {
+  position: absolute;
+  left: -20px;
+  z-index: -1;
+  top: 290px;
+}
+ .bottom-line{
+width: 400px;
+ }
+ .page2-photo{
+  position: relative;
+  top: 1400px;
+  left: 121px;
+ }
+ .ellipse-2pg{
+  position: absolute;
+  top: 185px;
+  left: 40px;
+  z-index: -1;
+ }
+ .bottom-paragraphs{
+  position: relative;
+  display: flex;
+  top: 1260px;
+  left: 450px;
+ }
+ 
+ .bottom-paragraphs p{
+  font-weight: 900;
+  font-size: 22px;
+  width: 205px;
+ }
+ .span{
+  font-weight: normal;
+  font-size: 15px;
+ }
+ /* -----------------------third page starts---------*/
+ .page3-h1{
+  position: relative;
+  top: 1600px;
+  left:121px;
+  margin-bottom: 90px;
+ }
+ .page3-h1 h1{
+  font-size: 80px;
+ }
+ .page3-subheads{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  top:1700px ;
+  left: 121px;
+  width: 900px;
+ }
+
+ .page3-subheads .blue-p {
+  font-size: 22px;    
+  color: #1E4681;
+  font-weight: 700;
+  margin:0 0 10px 0;
+ } 
+ .page3-subheads .regular-p{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 130%;
+ }
+ .page3-h2 {
+  position: relative;
+  top: 2000px;
+  left: 121px;
+ }
+ .page3-h2 h2 {
+  font-size: 80px; 
+ }
+ .o-list{
+  left: 121px;
+  margin: 150px 0 0 0 ;
+ }
+ .o-list li{
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 170%;
+ }
+ 
+ /* --------------------------third page ends---------------- */

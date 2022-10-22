@@ -1,0 +1,177 @@
+@media screen and (min-width:992px) and (max-width: 1279px) {
+ 
+
+   .logo{
+      position: relative;
+      left: 40px;
+   }
+   .logo img{
+      position: absolute;
+      width: 80px;
+      height: 50px;
+      left: 0;
+      top: 22px;
+   }
+   .second-div{
+      position: relative;
+      left: 40px;
+   }
+.second-div .globus {
+   position: absolute;
+   left: 0px;
+   width: 25px;
+   left: 0px;
+   height: 15px;
+}
+
+.second-div .saat{
+   position: absolute;
+   left: 40px;
+   width: 25px;
+   left: 185px;
+   height: 15px;
+}
+.second-div .calendar{
+   position: absolute;
+   left: 40px;
+   width: 25px;
+   left: 340px;
+   height: 15px;
+}
+.second-div p{
+margin-left: 20px;
+font-size: 20px;
+font-weight: 400; 
+}
+.h1-div {
+   position: relative;
+   width: auto;
+   left: 40px;
+}
+.h1-div h1{
+   font-size: 46px;
+   font-weight: 400px;
+}
+.h1-div .director{
+   width:176px;
+   left: 550px;
+}
+.h1-div .ellipse-1{
+   width: 176px;
+   left: 520px;
+   top: 190px;
+}
+.h1-div p{
+   font-size: 20px;
+   font-weight: 400;
+}
+
+.blue-div{
+   width: 400px;
+   height: 150px;
+   left: 140px;
+
+}
+.blue-div p{
+   font-size: 14px;
+   font-weight: 400;
+}
+ 
+ /* -------------------------second page---------- */
+ .second-pageh1{
+   position: relative;
+   width: 50%;
+   left: 40px;
+ }
+ .second-pageh1 h1{
+   position: absolute;
+   width: 50%;
+   font-size: 46px;
+   left: 0;
+   font-weight: 400px;
+ }
+ .paraqraf{
+   width: 550px;
+   
+ }
+ .paraqraf p{
+   font-size: 20px;
+   font-weight: 400;
+ }
+ .cameraman-div{
+   left: 550px;
+   width: 50%;
+ }
+ .cameraman-div img {
+   width: 85%;
+   height:85%;
+ }
+ .ellipse-cameraman{
+ top: 135px;
+ left: 10px;
+ }
+ .bottom-line{
+   position: relative;
+   left: 0px;
+ }
+ .page2-photo {
+   position: absolute;
+   top: 1450px;
+   left: 40px;
+ }
+ .bottom-paragraphs{
+   position: absolute;
+   top: 1520px;
+   left: 310px;
+ }
+ .bottom-paragraphs p,span{
+ font-size: 15px;
+ }
+
+/* ------------------second page ends----------- */
+/* --------------third page begins-------------- */
+.page3-h1{
+   position: relative;
+   top: 1800px;
+   left:40px;
+}
+.page3-h1 h1{
+   width: 50%;
+   font-size: 46px;
+   left: 0;
+}
+.page3-subheads{
+position: relative;
+display: flex;
+justify-content: space-between;
+left: 40px;
+top: 1820px;
+width: 70%;
+}
+.page3-subheads .blue-p{
+font-size: 18px;
+margin: 0 0 10px 0px;
+}
+.page3-subheads .regular-p{
+   font-size:15px;
+   font-weight: 400;
+   line-height: 100%;
+  }
+  .page3-h2 {
+   position: relative;
+   top: 1900px;
+   left: 40px;
+  }
+  .page3-h2 h2 {
+   font-size: 46px; 
+  }
+  .o-list{
+   left: 40px;
+   margin-top: px;
+}
+.o-list li{
+margin: 0 0 0 20px;
+font-size: 20px;
+line-height: 130%;
+}
+}
